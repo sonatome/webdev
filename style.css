@@ -16,8 +16,7 @@
     background: var(--surface-alt);
 
 }
-
-.project-card.project-image img {
+.project-image img {
 
     width: 100%;
 
